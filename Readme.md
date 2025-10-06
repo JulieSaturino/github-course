@@ -1,3 +1,3 @@
 #Github
 
-Arquivo da aula de Git e GitHub
+Este é um repositorio teste para ensinar como o git funciona.
